@@ -13,7 +13,7 @@ Escribe la descripción del proyecto
 ### Colaboradores
 ***
 Listado de las versiones del proyecto con la siguiente información:
-> Luis Alfredo Martinez: Regional Consultant
+> Luis Alfredo Martinez: Colaborador Regional
 
 ### Control de versiones
 ***
