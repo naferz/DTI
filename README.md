@@ -1,3 +1,4 @@
+# DIRECCION DE TECNOLOGIA
 ## Indice
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
@@ -12,7 +13,7 @@ Escribe la descripción del proyecto
 ### Colaboradores
 ***
 Listado de las versiones del proyecto con la siguiente información:
-> Mikel Escobar: Regional Consultant
+> Luis Alfredo Martinez: Regional Consultant
 
 ### Control de versiones
 ***
